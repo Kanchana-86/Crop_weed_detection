@@ -70,7 +70,7 @@ https://github.com/Kanchana-86/Crop_weed_detection/releases/download/v1.0/app-re
 ---
 
 ## 📷 Sample Output
-
+https://github.com/Kanchana-86/Crop_weed_detection/blob/main/App%20UI.png
 ---
 
 ## 📈 Applications
