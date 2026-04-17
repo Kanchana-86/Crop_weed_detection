@@ -55,10 +55,9 @@ This project focuses on detecting crops and weeds in real agricultural fields us
 
 ---
 
-## 📦 APK File
-You can download and install the APK from the repository:
-
-👉 `app-release.apk`
+## 📦 APK Download
+Download the app here:
+https://github.com/Kanchana-86/Crop_weed_detection/releases/download/v1.0/app-release.apk
 
 ---
 
