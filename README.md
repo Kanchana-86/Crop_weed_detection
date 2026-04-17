@@ -58,7 +58,7 @@ This project focuses on detecting crops and weeds in real agricultural fields us
 ## 📦 APK File
 You can download and install the APK from the repository:
 
-👉 `app-release.apk` (Upload your APK file here)
+👉 `app-release.apk`
 
 ---
 
@@ -71,7 +71,6 @@ You can download and install the APK from the repository:
 ---
 
 ## 📷 Sample Output
-(Add screenshots here)
 
 ---
 
